@@ -6,7 +6,7 @@ import torch.optim as optim
 import numpy as np
 import matplotlib.pyplot as plt
 # from model2.img_segment import UNet
-from img_segment import UNet
+from unet_model import UNet
 from torch.utils.data import DataLoader
 
 # 设置随机种子
